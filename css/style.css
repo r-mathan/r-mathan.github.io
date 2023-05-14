@@ -9717,19 +9717,19 @@ textarea.form-control {
     }
 
     @media (max-width: 768px){
-      #home-section{
+      /* #home-section{
         position: relative;
         background-image: url(/images/m_2.jpg);
         background-size: cover;
         height: 90vh;
         background-position: top;
-      }
+      } */
       #home-section .container .inner_section{
         margin: 0 !important;
       }
-      #home-section .container .text{
+      /* #home-section .container .text{
         margin-top: 40%;
-      }
+      } */
       #home-section .container .text h1 {
         font-size: 40px !important;
         margin-bottom: 0 !important;
@@ -9741,7 +9741,8 @@ textarea.form-control {
         height: 850px !important;
       } */
     }
-    @media (max-width: 500px){
+
+    /* @media (max-width: 500px){
       #home-section{
         position: relative;
         background-image: url(/images/m_2.jpg);
@@ -9749,7 +9750,7 @@ textarea.form-control {
         height: 90vh;
         background-position: center;
       }
-    }
-    
+    } */
+
 
     
