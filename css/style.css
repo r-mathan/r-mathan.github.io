@@ -9698,6 +9698,8 @@ textarea.form-control {
       #home-section .my__image{
         background-image: url(/images/m_2.jpg);
         max-height: 100% !important;
+        margin-top: 0 !important;
+        margin: 100px 0;
       }
       #home-section .my__image .owl-carousel.home-slider .slider-item{
         height: 850px !important;
